@@ -1,0 +1,15 @@
+C:\Users\PSXSLHP185\coding_chal\buildOrder\obj\Debug\net6.0\buildOrder.csproj.AssemblyReference.cache
+C:\Users\PSXSLHP185\coding_chal\buildOrder\obj\Debug\net6.0\buildOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PSXSLHP185\coding_chal\buildOrder\obj\Debug\net6.0\buildOrder.AssemblyInfoInputs.cache
+C:\Users\PSXSLHP185\coding_chal\buildOrder\obj\Debug\net6.0\buildOrder.AssemblyInfo.cs
+C:\Users\PSXSLHP185\coding_chal\buildOrder\obj\Debug\net6.0\buildOrder.csproj.CoreCompileInputs.cache
+C:\Users\PSXSLHP185\coding_chal\buildOrder\bin\Debug\net6.0\buildOrder.exe
+C:\Users\PSXSLHP185\coding_chal\buildOrder\bin\Debug\net6.0\buildOrder.deps.json
+C:\Users\PSXSLHP185\coding_chal\buildOrder\bin\Debug\net6.0\buildOrder.runtimeconfig.json
+C:\Users\PSXSLHP185\coding_chal\buildOrder\bin\Debug\net6.0\buildOrder.dll
+C:\Users\PSXSLHP185\coding_chal\buildOrder\bin\Debug\net6.0\ref\buildOrder.dll
+C:\Users\PSXSLHP185\coding_chal\buildOrder\bin\Debug\net6.0\buildOrder.pdb
+C:\Users\PSXSLHP185\coding_chal\buildOrder\obj\Debug\net6.0\buildOrder.dll
+C:\Users\PSXSLHP185\coding_chal\buildOrder\obj\Debug\net6.0\ref\buildOrder.dll
+C:\Users\PSXSLHP185\coding_chal\buildOrder\obj\Debug\net6.0\buildOrder.pdb
+C:\Users\PSXSLHP185\coding_chal\buildOrder\obj\Debug\net6.0\buildOrder.genruntimeconfig.cache
