@@ -1,0 +1,15 @@
+C:\Users\PSXSLHP185\coding_chal\RobotGrid\obj\Debug\net6.0\RobotGrid.csproj.AssemblyReference.cache
+C:\Users\PSXSLHP185\coding_chal\RobotGrid\obj\Debug\net6.0\RobotGrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PSXSLHP185\coding_chal\RobotGrid\obj\Debug\net6.0\RobotGrid.AssemblyInfoInputs.cache
+C:\Users\PSXSLHP185\coding_chal\RobotGrid\obj\Debug\net6.0\RobotGrid.AssemblyInfo.cs
+C:\Users\PSXSLHP185\coding_chal\RobotGrid\obj\Debug\net6.0\RobotGrid.csproj.CoreCompileInputs.cache
+C:\Users\PSXSLHP185\coding_chal\RobotGrid\bin\Debug\net6.0\RobotGrid.exe
+C:\Users\PSXSLHP185\coding_chal\RobotGrid\bin\Debug\net6.0\RobotGrid.deps.json
+C:\Users\PSXSLHP185\coding_chal\RobotGrid\bin\Debug\net6.0\RobotGrid.runtimeconfig.json
+C:\Users\PSXSLHP185\coding_chal\RobotGrid\bin\Debug\net6.0\RobotGrid.dll
+C:\Users\PSXSLHP185\coding_chal\RobotGrid\bin\Debug\net6.0\ref\RobotGrid.dll
+C:\Users\PSXSLHP185\coding_chal\RobotGrid\bin\Debug\net6.0\RobotGrid.pdb
+C:\Users\PSXSLHP185\coding_chal\RobotGrid\obj\Debug\net6.0\RobotGrid.dll
+C:\Users\PSXSLHP185\coding_chal\RobotGrid\obj\Debug\net6.0\ref\RobotGrid.dll
+C:\Users\PSXSLHP185\coding_chal\RobotGrid\obj\Debug\net6.0\RobotGrid.pdb
+C:\Users\PSXSLHP185\coding_chal\RobotGrid\obj\Debug\net6.0\RobotGrid.genruntimeconfig.cache
